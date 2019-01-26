@@ -153,7 +153,7 @@ class Hiring extends Component {
                       </div>
                     }
                   </List.Content>
-                  <Button className='shortlistButton' onPress={() => this._shortlist()} primary>Send interview request
+                  <Button className='shortlistButton' onClick={() => this._shortlist()} primary>Send interview request
                   </Button>
                   <Button className='shortlistButton' secondary>View Resume</Button>
                 </List.Item>

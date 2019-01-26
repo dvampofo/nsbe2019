@@ -29,7 +29,7 @@ class Hiring extends Component {
       coverLetter: "",
       skills: ""
     });
-    console.log("adsfsd");
+    alert('Thanks for submitting!')
   };
 
   render() {
