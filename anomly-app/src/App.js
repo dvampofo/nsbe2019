@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <div>
+        <div className='rootContainer'>
           <Route exact path="/" component={Applicant} />
           <Route path="/Hiring" component={Hiring} />
         </div>
