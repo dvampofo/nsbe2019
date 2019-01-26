@@ -1,10 +1,11 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import "semantic-ui-css/semantic.min.css";
 
 class App extends Component {
   render() {
-    console.log("Hello world")
+    console.log("Hello world");
     return (
       <div className="App">
         <header className="App-header">
