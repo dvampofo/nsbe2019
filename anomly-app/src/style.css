@@ -1,0 +1,32 @@
+.formContainer {
+  width: 90%;
+  /* height: 50%; */
+  text-align: center;
+  margin: 0 auto;
+  /* background-color: #66ffff; */
+  margin-top: 70px;
+  margin-bottom: 50px;
+
+  box-shadow: 0 0 3px #ccc;
+}
+
+.dropContainer {
+  width: 600px;
+  height: 100px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 25px;
+  padding: 30px;
+
+  background-color: #b3e3ff;
+  box-shadow: 0 0 3px #ccc;
+}
+
+.formMargin {
+  padding: 10px 10px 10px 10px;
+}
+
+.submitButton {
+  padding-bottom: 20px;
+}
