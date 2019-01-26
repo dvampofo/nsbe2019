@@ -2,11 +2,20 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import "semantic-ui-css/semantic.min.css";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import Applicant from "./Applicant";
+import Hiring from "./Hiring";
 
 class App extends Component {
   render() {
-    console.log("Hello world");
-    return <h1>Anomly</h1>;
+    return (
+      <Router>
+        <div>
+          <Route exact path="/" component={Applicant} />
+          <Route path="/Hiring" component={Hiring} />
+        </div>
+      </Router>
+    );
   }
 }
 
