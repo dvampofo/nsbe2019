@@ -12,7 +12,7 @@ _Anonly_ tries to tackle this problem by removing the applicant's personal infor
 
 ## Technology Used
 
-HTML,CSS, JavaScript, Semantic-UI, ReactJS and Google Firebase.
+HTML, CSS, JavaScript, Semantic-UI, ReactJS and Google Firebase.
 
 ## Future Improvements
 
