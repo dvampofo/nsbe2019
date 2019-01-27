@@ -1,5 +1,7 @@
 # NSBE UofT First Hackathon
 
+![AnonlyTeam](https://github.com/dvampofo/nsbe2019/blob/master/anomly-app/image/AnonlyTeam.JPG?raw=true)
+
 ## Inspiration
 
 Unconscious/implicit bias are social stereotypes about certain groups of people that individuals form outside of their own conscious awareness. It plays a big role in the applicant selection process and can create a barrier to entry for minorities with ethnic-sounding names. Minorities who "whiten" their resumes get more callbacks for interviews versus the one's who do not.
