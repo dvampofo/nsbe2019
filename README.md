@@ -1,4 +1,4 @@
-# nsbe2019
+# NSBE UofT First Hackathon
 
 ## Inspiration
 
@@ -6,10 +6,24 @@ Unconscious/implicit bias are social stereotypes about certain groups of people 
 
 ## What it does
 
-Anonly tries to tackle this problem by removing the applicant's personal information and only listing their skills, experience, and education. The interviewer can only see the applicant's name after they send out interview requests thereby eliminating subconscious bias impacting the selection process.
+_Anonly_ tries to tackle this problem by removing the applicant's personal information and only listing their skills, experience, and education. The interviewer can only see the applicant's name after they send out interview requests thereby eliminating subconscious bias impacting the selection process.
+
+## Technology Used
+
+HTML,CSS, JavaScript, Semantic-UI, ReactJS and Google Firebase.
+
+## Future Improvements
+
+Implementing [PDFMiner](https://github.com/pdfminer/pdfminer.six), a tool for extracting information from PDF documents. Unlike other PDF-related tools, it focuses entirely on getting and analyzing text data. PDFMiner allows one to obtain the exact location of text in a page, as well as other information such as fonts or lines.
+
+This technology would allow Anonly pull specific user data from the uploaded resume (e.g. skills, experience). This will improve user experience and ensure to users and hiring managers that unconscious bias does not seep into the selection process.
 
 ## Demo
 
-What the applicant sees: [Applicant Side](https://anomly-f6630.firebaseapp.com/)
+[Applicant Side](https://anomly-f6630.firebaseapp.com/)
 
-What the hiring manager sees: [Hiring Manager Side](https://anomly-f6630.firebaseapp.com/hiring)
+[Hiring Manager Side](https://anomly-f6630.firebaseapp.com/hiring)
+
+## Results
+
+Our team won Google's _[Best Use of Google Cloud Platform](https://devpost.com/software/anonly)_ challenge.
